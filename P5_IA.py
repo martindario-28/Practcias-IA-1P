@@ -1,0 +1,1 @@
+print("Lista de lenguajes de programación:\n\t-Python.\n\t-JavaScript.\n\t-Java.\n\t-PHP.\n\t-TypeScripst.\n\t-SQL.\n\t-COBOL.")
